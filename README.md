@@ -107,3 +107,17 @@ loop(): Memutar trek audio secara terus-menerus sebagai musik latar belakang (ba
 stop(): Menghentikan eksekusi pemutaran suara.
 
 # Dokumentasi
+## VIDEO YOUTUBE(GamePlay dan Bukti Sound effect)
+https://youtu.be/FaI6wCOd19k
+
+## menu
+bagian menu yang berisi start dan exit <br><br>
+![](Dokumentasi/menu.png)
+
+## score
+bagian jpanel yang menghitung skor (menambah 1 poin) ketika player(burung) tepat melewati batas akhir pipa <br><br>
+![](Dokumentasi/score.png)
+
+## gameOver
+bagian yang menampikan game over dan panduan untuk memencet tombol R untuk restart ketika player kalah(menabrak pipa atau player menyentuh batas bawah window<br><br>
+![](Dokumentasi/gameOver.png)
